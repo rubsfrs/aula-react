@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url('../public/images/guitarra_fundo_body1.png');
+  background-image: url('/images/guitarra_fundo_body1.png');
   background-repeat: no-repeat;
   background-size: 100% 500px;
   font-family: verdana;
@@ -27,7 +27,7 @@ header {
   justify-content: flex-end;
   width: 100%;
   height: 150px;
-  background-image: url('../public/images/guitarras_header1.png');
+  background-image: url('/images/guitarras_header1.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
